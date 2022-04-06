@@ -2,3 +2,6 @@
 auth_key.txt
 cache.json
 config.toml
+flatpak/.flatpak-builder
+flatpak/build-dir
+flatpak/repo
