@@ -6,3 +6,4 @@ config.toml
 flatpak/.flatpak-builder
 flatpak/build-dir
 flatpak/repo
+.flatpak-builder
